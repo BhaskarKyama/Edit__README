@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Edit_README!
+# 👋 Hi there, I'm Bhaskar!
 
 - 💻 I'm passionate about Full Stack Development & DevOps
 - 🌱 Currently learning: ServiceNow Development, GitHub Actions, and Cloud Platforms
@@ -15,8 +15,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edit_README&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edit__README&show_icons=true)
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edit_README&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edit__README&layout=compact)
