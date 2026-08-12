@@ -1,4 +1,3 @@
-# Edit__README
 # 👋 Hi there, I'm Edit_README!
 
 - 💻 I'm passionate about Full Stack Development & DevOps
